@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Vitor-php/API_NODE/issues"
   },
-  "homepage": "https://github.com/Vitor-php/API_NODE#readme"
+  "homepage": "https://github.com/Vitor-php/API_NODE#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
