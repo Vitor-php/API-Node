@@ -4,11 +4,12 @@
   "description": "API MADE IN NODE.JS",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon ./index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Vitor-php/API_NODE.git"
+    "url": "https://github.com/Vitor-php/API-Node.git"
   },
   "author": "",
   "license": "ISC",
