@@ -7,5 +7,7 @@ server.get('/filmes', (req,res) => {
 })
 
 server.listen(3000, () => {
-    console.log('Servidor está funcionando')
+    console.log('Servidor está funcionando') 
 });
+
+//teste
